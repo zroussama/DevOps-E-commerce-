@@ -1,13 +1,13 @@
-# DevOps-E-commerce-
-DevOps (Development and Operations) refers to a collaborative method that enables an organization's development and IT operations teams to work together effortlessly. DevOps practices are essential in the IT development cycle for ensuring reliable outcomes from the software. Lately, even the quality assurance and security teams have become more closely linked with development and operations; thereby, it is sometimes also referenced as DevSecOps.
+# DevOps E-commerce 
+**DevOps** (Development and Operations) refers to a collaborative method that enables an organization's development and IT operations teams to work together effortlessly. DevOps practices are essential in the IT development cycle for ensuring reliable outcomes from the software. Lately, even the quality assurance and security teams have become more closely linked with development and operations; thereby, it is sometimes also referenced as DevSecOps.
 The Development and Operation teams automate procedures that were previously manual and slow. They employ a technological stack and infrastructure that allows them to operate and work on the development of applications swiftly. These technologies also assist engineers in autonomously completing activities that would ordinarily require assistance from other teams, hence increasing a team's speed.
-#Improve Jenkins Remoting
+# Improve Jenkins Remoting
 Jenkins is a Java-based open source continuous integration/continuous delivery and deployment (CI/CD) automation software. It is used to create pipelines that follow CI/CD workflows. And Jenkins Remoting is a library that implements the communication layer in Jenkins. This communication layer could be TCP-based communication protocols, remote procedure calls, class loading, data streaming, etc. Remoting helps with the communications between the Jenkins controller and Jenkins agents. You must work on this project to improve remoting. You will make Jenkins Remoting compatible with bus technology such as ActiveMQ or RabbitMQ. 
 
-#Create Default Base Images with Docker
+# Create Default Base Images with Docker
 Docker is a software platform that allows you to build, test, and deploy applications quickly. You can also use Docker as a tool for developing and deploying applications. It is built on the concept of packaging your code and dependencies into a deployable unit known as a container. 
 
 The majority of Dockerfiles start with a parent image. The base image is built on a parent image, and each subsequent declaration in the Dockerfile modifies this parent image. Instead of starting with a base image, most Dockerfiles begin with a parent image. However, the names are occasionally used interchangeably. You can create a project where you need to construct a base image if you want to take control of the image completely.
 
-#Learn Git Branching and Source Code Management
+# Learn Git Branching and Source Code Management
 Source code management is an essential skill for DevOps engineers. Git is one of the most extensively used version control systems, and every developer should be familiar with it. Git's branching capabilities are one of its most powerful features. Since Git branching is an integral part of your version control process, work on a project that will execute these skills thoroughly. Create a project that implements Git branching, merging, etc.
